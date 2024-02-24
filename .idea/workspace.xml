@@ -4,96 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e48bc357-e963-4722-8a05-2b1a6de47e61" name="Changes" comment="">
+    <list default="true" id="82620ec2-935e-48f3-988e-43eacbf8a12f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x-21.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x-21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x1.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x112.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x112.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x113.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x113.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x12.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x13.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x151.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x151.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x16.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x17.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x181.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x181.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x182.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x182.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x184.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x184.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x19.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x20.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x22.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x221.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x221.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x222.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x222.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x231.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x231.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x232.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x232.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x242.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x242.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x244.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x244.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x245.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x245.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x247.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x247.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x248.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x248.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x2491.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x2491.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x31.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x31.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x311.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x311.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x32.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x32.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x3221.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x3221.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x33.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x33.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x34.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x34.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x35.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x35.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x36.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x36.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x37.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x37.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x38.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x38.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x39.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x39.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x52.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x52.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/annex/x55.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/annex/x55.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap1/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap1/11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap1/12.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap1/12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap2/22.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap2/22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap2/23.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap2/23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap2/24.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap2/24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap2/25.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap2/25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap2/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap2/26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap3/31.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap3/31.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap3/32.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap3/32.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap3/34.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap3/34.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap3/35.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap3/35.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap3/36.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap3/36.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap4/41.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap4/41.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap4/42.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap4/42.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap4/43.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap4/43.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap4/45.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap4/45.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap4/46.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap4/46.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap4/47.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap4/47.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap5/52.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap5/52.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap5/5221.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap5/5221.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap5/5222.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap5/5222.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap5/5224.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap5/5224.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap5/53.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap5/53.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap5/54.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap5/54.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap6/61.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap6/61.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap6/63.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap6/63.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/71.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/71.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/711.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/711.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/712.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/712.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/721.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/721.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/73.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/73.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/76.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/76.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/764.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/764.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/7661.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/7661.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap7/77.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap7/77.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap8/81.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap8/81.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap8/83.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap8/83.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap8/85.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap8/85.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap8/88.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap8/88.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/91.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/91.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/921.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/921.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/93.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/93.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/933.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/933.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/942.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/942.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/943.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/943.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/944.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/944.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/cap9/945.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/cap9/945.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preamble.html" beforeDir="false" afterPath="$PROJECT_DIR$/preamble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,44 +16,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2coVft6wy9Kb64q4f6i2JjdWNrs" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2coq75lPuur9DX5heSqrLZbhU2i" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="objectual-philosophy.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="objectual-philosophy.github.io" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e48bc357-e963-4722-8a05-2b1a6de47e61" name="Changes" comment="" />
-      <created>1708778025357</created>
+      <changelist id="82620ec2-935e-48f3-988e-43eacbf8a12f" name="Changes" comment="" />
+      <created>1708788108710</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708778025357</updated>
+      <updated>1708788108710</updated>
     </task>
     <servers />
   </component>
